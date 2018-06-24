@@ -43,7 +43,7 @@ gemBox.splice(5,7, "Sapphire");
 
 //splice() - inserting elements
 upToTen.splice(2,0, 3,4,5,6,7,8);
-brownOnly.splice()
+brownOnly.splice(1, 6, 'brown', 'brown', 'brown', 'brown');
 
 //unshift() 
 var orderedValuesNewLength = orderedValues.unshift(1,2,3);
